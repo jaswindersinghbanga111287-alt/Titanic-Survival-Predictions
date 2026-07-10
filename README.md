@@ -67,7 +67,7 @@ Performed:
 
 Example:
 
-![Correlation Heatmap](Visuals/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
@@ -123,19 +123,19 @@ Example:
 
 ### Accuracy Comparison
 
-![Accuracy](Visuals/Accuracy.png)
+![Accuracy](Accuracy.png)
 
 ### Logistic Regression Confusion Matrix
 
-![Logistic CM](Visuals/Logistic_ConfusionMat.png)
+![Logistic CM](Logistic_ConfusionMat.png)
 
 ### Decision Tree Confusion Matrix
 
-![Tree CM](Visuals/Decision_Tree_ConfusionMat.png)
+![Tree CM](Decision_Tree_ConfusionMat.png)
 
 ### Feature Importance
 
-![Feature Importance](Visuals/Feature_Importance.png)
+![Feature Importance](Feature_Importance.png)
 
 ---
 
